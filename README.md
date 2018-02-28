@@ -1,2 +1,7 @@
-# class-search-design
-795 front-end
+### Description:
+This is our assignment for redesign the class search page for UM.
+
+### Haosheng Li
+### Xing Liu
+
+### Invision link https://projects.invisionapp.com/boards/5N3JGFQHZED/
